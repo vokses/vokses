@@ -1,10 +1,13 @@
 <div align="center">
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3C096C,100:7B2CBF&height=230&section=header&text=VOKSES&fontSize=70&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Android%20App%20Developer&descAlignY=60&descSize=20&descColor=C77DFF" width="100%"/>
+
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Web+Developer;Android+App+Developer;HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;Node.js+%7C+PHP+%7C+MySQL;C%23+%7C+Python+%7C+Java;Kod%2C+karanl%C4%B1kta+parlar." width="100%"/>
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Web+Developer;Android+App+Developer;HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;Node.js+%7C+PHP+%7C+MySQL;C%23+%7C+Python+%7C+Java;Kod%2C+karanlıkta+parlar." alt="Typing SVG" />
 
 </div>
 
