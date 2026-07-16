@@ -18,6 +18,8 @@
 ```yaml
 Kullanıcı: vokses
 Rol: Web Developer & Android App Developer
+Focus: Modern, fast & responsive web applications
+Location: Türkiye
 Şu An Öğrendiğim: React
 ```
 
@@ -47,7 +49,13 @@ Rol: Web Developer & Android App Developer
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vokses&hide_border=true&background=0D0221&stroke=7B2CBF&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=9D4EDD" />
+<p align='center'>
+  <img src='https://streak-stats.demolab.com?user=vokses&theme=midnight-purple&hide_border=true' />
+</p>
+
+<p align='center'>
+  <img src='https://github-readme-activity-graph.vercel.app/graph?username=vokses&bg_color=0d1117&color=a855f7&line=a855f7&point=c084fc&area=true&hide_border=true' />
+</p>
 
 </div>
 
