@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Web+Developer;Android+App+Developer;HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;Node.js+%7C+PHP+%7C+MySQL;C%23+%7C+Python+%7C+Java;Kod%2C+karanl%C4%B1kta+parlar." width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Web+Developer;Android+App+Developer;HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;Node.js+%7C+PHP+%7C+MySQL;C%23+%7C+Python+%7C+Java;Kod%2C+Kod%2C+Kod%2C." width="100%"/>
 
 
 </div>
