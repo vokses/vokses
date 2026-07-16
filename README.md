@@ -13,14 +13,12 @@
 
 <br>
 
-<h3 align="center">🔮 Hakkımda</h3>
+<h3 align="center">Hakkımda</h3>
 
 ```yaml
 Kullanıcı: vokses
 Rol: Web Developer & Android App Developer
-Şu An Üzerinde Çalıştığım: (buraya güncel projeni yaz)
-Şu An Öğrendiğim: (buraya öğrendiğin yeni teknolojiyi yaz)
-Felsefem: "Sessiz çalış, kod konuşsun."
+Şu An Öğrendiğim: React
 ```
 
 <div align="center">
