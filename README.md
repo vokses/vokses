@@ -32,7 +32,7 @@ Felsefem: "Sessiz çalış, kod konuşsun."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,php,mysql,cs,python,java,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,php,mysql,cs,python,java,vscode&theme=dark" />
 
 </div>
 
@@ -52,32 +52,6 @@ Felsefem: "Sessiz çalış, kod konuşsun."
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=vokses&hide_border=true&background=0D0221&stroke=7B2CBF&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=9D4EDD" />
-
-</div>
-
-<br>
-
-<h3 align="center">🏆 Trophy'lerim</h3>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vokses&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,100:7B2CBF&height=3&section=header" width="100%">
-
-<h3 align="center">🌌 3D Katkı Takvimi</h3>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vokses/vokses/output/github-contribution-grid-snake-dark.svg" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/vokses/vokses/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
 
