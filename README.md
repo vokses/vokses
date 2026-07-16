@@ -44,27 +44,10 @@ Felsefem: "Sessiz çalış, kod konuşsun."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vokses&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokses&layout=compact&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=vokses&hide_border=true&background=0D0221&stroke=7B2CBF&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=9D4EDD" />
 
 </div>
 
-<br>
-
-<h3 align="center">⚡ Öne Çıkan Projelerim</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vokses&repo=PROJE_ADI_1&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vokses&repo=PROJE_ADI_2&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
-
-</div>
 
 <br>
 
