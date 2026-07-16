@@ -6,14 +6,14 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Web+Developer;Android+App+Developer;HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;Node.js+%7C+PHP+%7C+MySQL;C%23+%7C+Python+%7C+Java;Kod%2C+Kod%2C+Kod%2C." width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Web+Developer;Android+App+Developer;HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;Node.js+%7C+PHP+%7C+MySQL;C%23+%7C+Python+%7C+Java;Code%2C+Code%2C+Code%2C." width="100%"/>
 
 
 </div>
 
 <br>
 
-<h3 align="center">Hakkımda</h3>
+<h3 align="center">About Me</h3>
 
 ```yaml
 Kullanıcı: vokses
@@ -23,17 +23,10 @@ Location: Türkiye
 Şu An Öğrendiğim: React
 ```
 
-<div align="center">
-
-🟣 **Web** ve **Android** tarafında uçtan uca ürün geliştiriyorum
-💜 Temiz mimari ve performans odaklı kod yazmayı önemsiyorum
-🌌 Yeni teknolojileri öğrenmeye ve projelere entegre etmeye açığım
-
-</div>
 
 <br>
 
-<h3 align="center">🕸️ Teknolojiler & Diller</h3>
+<h3 align="center">🕸️ Technologies & Languages </h3>
 
 <div align="center">
 
@@ -45,7 +38,7 @@ Location: Türkiye
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B2CBF,100:0D0221&height=3&section=header" width="100%">
 
-<h3 align="center">📊 GitHub İstatistiklerim</h3>
+<h3 align="center">📊 GitHub Statistics </h3>
 
 <div align="center">
 
@@ -64,7 +57,7 @@ Location: Türkiye
 
 <div align="center">
 
-![Profil Görüntülenme](https://komarev.com/ghpvc/?username=vokses&color=7B2CBF&style=for-the-badge&label=PROFİL+GÖRÜNTÜLENME)
+![Profile Views](https://komarev.com/ghpvc/?username=vokses&color=7B2CBF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
