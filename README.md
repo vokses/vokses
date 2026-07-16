@@ -16,11 +16,11 @@
 <h3 align="center">About Me</h3>
 
 ```yaml
-Kullanıcı: vokses
-Rol: Web Developer & Android App Developer
+User: vokses
+Role: Web Developer & Android App Developer
 Focus: Modern, fast & responsive web applications
 Location: Türkiye
-Şu An Öğrendiğim: React
+Learning RN: React
 ```
 
 
