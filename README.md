@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:3C096C,100:7B2CBF&height=230&section=header&text=VOKSES&fontSize=70&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Android%20App%20Developer&descAlignY=60&descSize=20&descColor=C77DFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:6b7280,100:d1d5db&height=230&section=header&text=VOKSES&fontSize=70&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Android%20App%20Developer&descAlignY=60&descSize=20&descColor=C77DFF" width="100%"/>
 
 </div>
 
